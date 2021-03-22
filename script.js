@@ -30,14 +30,14 @@ document.getElementById('b5').addEventListener('click', change4)
 
 function change4 () {
   document.getElementById('paragraph').innerHTML = '<p>25. Movie II<br><br>In 2015, the movie “Steve Jobs” was released, it won the Golden Globe Award for Best Screenplay.</p>'
-  document.getElementById('right-img').src = './Images/15. Return to Apple.JPG'
+  document.getElementById('right-img').src = './Images/25. Movie II.JPG'
 }
 // --------------------------5
 document.getElementById('b6').addEventListener('click', change5)
 
 function change5 () {
   document.getElementById('paragraph').innerHTML = '<p>26. Success<br><br>“In 2018, Apple officially hit the $1 trillion mark, making it the first American Company to do so, ever” (Weinberger, Hartmans). He gave himself a $1 annual salary (Biography.com)(Shwarts).</p>'
-  document.getElementById('right-img').src = './Images/16. Apple is Profitable Again.JPG'
+  document.getElementById('right-img').src = './Images/26. Success.JPG'
 }
 // --------------------------6
 document.getElementById('b7').addEventListener('click', change6)
@@ -64,7 +64,7 @@ function change8 () {
 document.getElementById('b10').addEventListener('click', change9)
 
 function change9 () {
-  document.getElementById('paragraph').innerHTML = '<p>20. Ad-War<br><br>From 2006 to 2009 Mac and PC engaged in an ‘ad-war’. Apples 2006 “Get a Mac” campaign started an ad-war that lasted until 2009 (Kolowich). </p>'
+  document.getElementById('paragraph').innerHTML = '<p>30. references<br><br></p>'
   document.getElementById('right-img').src = './Images/20. Ad-War.JPG'
 }
 // --------------------------10
