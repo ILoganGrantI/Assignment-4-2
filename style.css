@@ -62,7 +62,7 @@ h1 {
   border: 5px solid black;
   padding: 8px;
   float: none;
-	text-align: center;	
+  text-align: center;
 }
 
 body {
@@ -127,7 +127,7 @@ div.transbox p {
   width: 150px;
   height: 100px;
   margin: auto;
-	display: block;
+  display: block;
 }
 
 button {
@@ -136,31 +136,31 @@ button {
 }
 
 .button {
-	background-color: #009ddc;
-	color: white;
+  background-color: #009ddc;
+  color: white;
 }
 
 .button1 {
-	background-color: #e03a3e;
-	color: white;
+  background-color: #e03a3e;
+  color: white;
 }
 
 .button2 {
-	background-color: #61bb46;
-	color: white;
+  background-color: #61bb46;
+  color: white;
 }
 
 .class {
-	background-color: #009ddc;
-	color: white;
+  background-color: #009ddc;
+  color: white;
 }
 
 #right-img {
-	width: 230px;
-	height: 230px;
+  width: 230px;
+  height: 230px;
 }
 
 .header1 {
-	background-color: black;
+  background-color: black;
   margin: auto;
 }
