@@ -10,40 +10,40 @@
 }
 
 h1 {
-  color: #009ddc;
+  color: #e03a3e;
   text-align: center;
   text-shadow: 2px 2px 5px black;
 }
 
 .left-column {
   float: left;
-  height: 650px;
+  height: 450px;
   width: 20%;
-  color: #009ddc;
+  color: #e03a3e;
   background: #fdb827;
-  border: 5px solid #009ddc;
+  border: 5px solid #e03a3e;
   padding: 8px;
   box-shadow: 10px 10px;
 }
 
-.center-column {
+#paragraph {
   margin: auto;
-  height: 650px;
+  height: 450px;
   width: 50%;
-  color: #009ddc;
+  color: black;
   background: #fdb827;
   padding: 10px;
-  border: 5px solid #009ddc;
+  border: 5px solid #e03a3e;
   box-shadow: 10px 10px;
 }
 
 .right-column {
   float: right;
-  height: 650px;
+  height: 450px;
   width: 20%;
-  color: #009ddc;
+  color: #e03a3e;
   background: #fdb827;
-  border: 5px solid #009ddc;
+  border: 5px solid #e03a3e;
   padding: 8px;
   box-shadow: 10px 10px;
 }
@@ -51,15 +51,15 @@ h1 {
 .left-column-head {
   font-size: 30px;
   text-align: center;
-  border: 5px solid #009ddc;
+  border: 5px solid #e03a3e;
 }
 
 .footer {
-  color: #009ddc;
+  color: #e03a3e;
   background: #fdb827;
   width: 100%;
   height: 100%;
-  border: 5px solid #009ddc;
+  border: 5px solid #e03a3e;
   padding: 8px;
   float: none;
 }
@@ -72,14 +72,14 @@ body {
   height: 100px;
   width: 200px;
   border: 10px solid cyan;
-  background: #009ddc;
+  background: #e03a3e;
 }
 
 .img-1 {
   height: 100px;
   width: 100px;
   border: 10px solid cyan;
-  background: #009ddc;
+  background: #e03a3e;
 }
 
 .h1 {
@@ -126,4 +126,9 @@ div.transbox p {
   width: 150px;
   height: 100px;
   margin: auto;
+}
+
+button {
+	width: 300px;
+	text-align: left;
 }
